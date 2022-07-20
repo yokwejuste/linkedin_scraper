@@ -1,0 +1,8 @@
+autopep8==1.6.0
+ipython==8.4.0
+parsel==1.6.0
+pip-chill==1.0.1
+pyopenssl==22.0.0
+pysocks==1.7.1
+selenium==4.3.0
+webdriver-manager==3.8.2
